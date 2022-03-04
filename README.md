@@ -15,3 +15,16 @@ example; if an array A is [‘c’ ‘e’ ‘n’ ‘g’] then array B must be
 ‘c’].
 <br><br>
 [Go Project](https://github.com/sinemturkcu/AssemblyLanguageProjects/tree/master/LabExperiment2)
+## Third Project :
+Write an assembly code that determines if a pre-defined number can be divided by 2, 3, 5 or 10. You can define the number as a variable in the code (e.g. “k db 15”). Your program must follow the steps below:
+
+- You must define a number.
+- Check if the number can be divided by 2, 3, 5 or 10.
+- If the number can be divided any of the numbers mentioned above, it must print a message that includes the divisor number. (You must define a procedure for printing)
+- If the number can be divided none of the numbers mentioned above, the program must exit without printing anything. 
+
+EXAMPLE : If the defined number is 15, then the output must be as:
+<br><br>
+![image](https://user-images.githubusercontent.com/42895382/156782712-6b9cb98c-8e52-490f-8f3d-69c5b3f7edda.png)
+<br><br>
+[Go Project](https://github.com/sinemturkcu/AssemblyLanguageProjects/tree/master/LabExperiment3)
